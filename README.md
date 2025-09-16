@@ -40,7 +40,7 @@
       </ul>
     </td>
     <td style="width: 40%; text-align: center;">
-      <img src="" width="250" alt="Coding Cat GIF"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Nnb3N5cGU3cjdqOTJrY3g3aWtqa3M4bXFkeDJ3a3ZsMTB1ejczeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="250" alt="Coding Cat GIF"/>
     </td>
   </tr>
 </table>
