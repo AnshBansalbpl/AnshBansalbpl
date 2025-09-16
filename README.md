@@ -32,7 +32,7 @@
   <tr>
     <!-- Left column: About me text -->
     <td style="width: 60%; vertical-align: top;">
-      Hey there, happy meeting you !!  
+      Hey there, I am Ansh Bansal !!  
       <ul>
         <li>🧑‍🎓 I'm a 4<sup>th</sup> year B.Tech Computer Science from Vellore Institute of Technology, India.</li>
         <li>👩‍💻 My technical interests include Software Development and Engineering and Data Analytics.</li>
@@ -140,7 +140,7 @@
 
 ## 📊 Languages Used  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit040504&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshBansalbpl&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" alt="Top Languages"/>
 </p>
 
 
