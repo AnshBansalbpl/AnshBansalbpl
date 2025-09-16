@@ -149,20 +149,20 @@
 ## 🔥 GitHub Streak  
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=akshit040504&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&hide_title=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=akshit040504&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1" alt="GitHub Stats"/>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=AnshBansalbpl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnshBansalbpl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6366f1" alt="GitHub Stats"/>
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nefrttPrabhu&layout=compact&theme=tokyonight&border_color=6366f1&hide_title=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit040504&layout=compact&theme=tokyonight&border_color=6366f1" alt="Top Languages"/>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshBansalbpl&layout=compact&theme=tokyonight&border_color=6366f1&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshBansalbpl&layout=compact&theme=tokyonight&border_color=6366f1" alt="Top Languages"/>
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshit040504&theme=tokyonight&border=6366f1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshBansalbpl&theme=tokyonight&border=6366f1" alt="GitHub Streak"/>
 </div>
 
 
@@ -176,7 +176,7 @@
 
 <br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=nefrttPrabhu&format=true&lcolor=6366f1&rcolor=4f46e5&style=for-the-badge" alt="Visitor Badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AnshBansalbpl&format=true&lcolor=6366f1&rcolor=4f46e5&style=for-the-badge" alt="Visitor Badge"/>
 
 </div>
 
