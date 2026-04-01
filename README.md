@@ -35,7 +35,7 @@
       Hey there, I am Ansh Bansal !!  
       <ul>
         <li>🧑‍🎓 I'm a 4<sup>th</sup> year B.Tech Computer Science from Vellore Institute of Technology, India.</li>
-        <li>👩‍💻 My technical interests include Software Development and Engineering and Data Analytics.</li>
+        <li>👩‍💻 My technical interests include SDE, GenAI and Data Engineering.</li>
         <li>👍 I thrive when collaborating with diverse teams and love diving into emerging technologies. Tackling challenging problems is something I truly enjoy!</li>
       </ul>
     </td>
